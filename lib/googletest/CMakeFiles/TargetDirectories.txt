@@ -1,3 +1,0 @@
-/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/rebuild_cache.dir
-/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/edit_cache.dir
-/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/googletest.dir
