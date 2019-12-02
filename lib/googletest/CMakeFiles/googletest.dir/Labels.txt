@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/googletest
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/googletest.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/CMakeFiles/googletest-complete.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/Wu/Desktop/UWB_CSS342_2019_Fall/UWB_CSS342_2019_Fall/class8/homework/sudoku/lib/googletest/googletest-prefix/src/googletest-stamp/googletest-test.rule
